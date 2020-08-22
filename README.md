@@ -1,6 +1,8 @@
 # i_am_rich
 
-A new Flutter application.
+My first Flutter app.This is a simple project and for enter Flutter.
+
+![I Am Rich](https://github.com/BatuhanAydonerDev/i_am_rich/blob/master/Screenshots/app_image.png)
 
 ## Getting Started
 
